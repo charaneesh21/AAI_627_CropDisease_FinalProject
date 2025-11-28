@@ -1,0 +1,5 @@
+Data/
+models/
+*.h5
+__pycache__/
+venvAAI627/
