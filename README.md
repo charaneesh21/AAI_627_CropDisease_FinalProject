@@ -120,7 +120,6 @@ numpy
 
 ## 🧪 Future Work
 
-- Add confusion matrix and visualizations  
 - Deploy model via Gradio or Streamlit  
 - Train on all 38 classes of PlantVillage dataset  
 - Add data augmentation and learning rate scheduling
